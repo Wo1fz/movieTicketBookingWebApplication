@@ -2,6 +2,8 @@
 
 We aim to develop and host a single webpage application that allows users to book movie tickets on our platform. All users will be able to view all seats in the theatre and able to book the available seats.
 
+You can visit our websit via - https://usmovie-my.netlify.app/
+
 ## Project Overview
 We have been practicing the agile methodology throughtout this project where two sprints were involved to produce this web application. The frontend of this web application was implemented using React.js while the backend was implemented using Spring Boot and MongoDB Atlas for the database. Below will be a few overview diagrams of this project. For more information regarding the project's design specifications and other documentations, you can visit the "Technical Report" folder in this repository.
 
