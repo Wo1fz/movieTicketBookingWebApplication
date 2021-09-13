@@ -5,8 +5,8 @@ I aim to develop and host a single webpage application that allows users to book
 You can visit our websit via - https://usmovie-my.netlify.app/
 
 ## Running the project on local device
-This project might not run as expected under local device as the CORS has been set to the live web application. 
-### Java Backend - server folder
+This project might not run as expected under local method as the CORS has been set to the live web application. 
+### Java Backend - Source code -> server 
 #### `.\mvnw spring-boot:run`
 Input the following to terminal to start the spring boot application.
 
@@ -14,7 +14,7 @@ Input the following to terminal to start the spring boot application.
 
 You can find the api via -https://ticketbookingapi-my.herokuapp.com/movies
 
-### React Frontend - client folder
+### React Frontend - Source code -> client
 #### `npm install`
 Install all the required packages needed for this project.
 
