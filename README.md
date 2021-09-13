@@ -4,6 +4,25 @@ We aim to develop and host a single webpage application that allows users to boo
 
 You can visit our websit via - https://usmovie-my.netlify.app/
 
+## Running the project on local device
+This project might not run as expected under local device as the CORS has been set to the live web application. 
+### Java Backend - server folder
+#### `.\mvnw spring-boot:run`
+Input the following to terminal to start the spring boot application.
+
+* server -> src -> main -> resources -> application.properties where not included in the git repository as it contains the connection string to MongoDB Atlas.
+
+You can find the api via -https://ticketbookingapi-my.herokuapp.com/movies
+
+### React Frontend - client folder
+#### `npm install`
+Install all the required packages needed for this project.
+
+#### `npm start`
+Runs the app in the development mode.
+
+* client -> .env file where not included in the git repository as it contains the ID for emailjs.
+
 ## Project Overview
 We have been practicing the agile methodology throughtout this project where two sprints were involved to produce this web application. The frontend of this web application was implemented using React.js while the backend was implemented using Spring Boot and MongoDB Atlas for the database. Below will be a few overview diagrams of this project. For more information regarding the project's design specifications and other documentations, you can visit the "Technical Report" folder in this repository.
 
