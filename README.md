@@ -1,6 +1,6 @@
 # usMovie Ticket Booking Web Application
 
-We aim to develop and host a single webpage application that allows users to book movie tickets on our platform. All users will be able to view all seats in the theatre and able to book the available seats.
+I aim to develop and host a single webpage application that allows users to book movie tickets on our platform. All users will be able to view all seats in the theatre and able to book the available seats.
 
 You can visit our websit via - https://usmovie-my.netlify.app/
 
